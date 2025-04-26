@@ -1,3 +1,4 @@
+'''
 Panasonic 1 ton 5 star Inverter
 Annual consumption units : 550 units/year
 
@@ -10,3 +11,5 @@ Additional Requirements :
 Stabilizer: 2000
 Ac Installation : 2000
 Total Remaning : 20000
+
+'''
